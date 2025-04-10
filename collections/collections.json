@@ -1,0 +1,117 @@
+{
+  "collections": [
+    {
+      "hasSchema": true,
+      "name": "changelogs"
+    },
+    {
+      "hasSchema": true,
+      "name": "channels"
+    },
+    {
+      "hasSchema": true,
+      "name": "commands"
+    },
+    {
+      "hasSchema": true,
+      "name": "customPages"
+    },
+    {
+      "hasSchema": true,
+      "name": "domains"
+    },
+    {
+      "hasSchema": true,
+      "name": "events"
+    },
+    {
+      "hasSchema": true,
+      "name": "flows"
+    },
+    {
+      "hasSchema": true,
+      "name": "pages"
+    },
+    {
+      "hasSchema": true,
+      "name": "queries"
+    },
+    {
+      "hasSchema": true,
+      "name": "services"
+    },
+    {
+      "hasSchema": true,
+      "name": "teams"
+    },
+    {
+      "hasSchema": true,
+      "name": "ubiquitousLanguages"
+    },
+    {
+      "hasSchema": true,
+      "name": "users"
+    }
+  ],
+  "entries": {
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/assemble-core/changelog.md": "changelogs",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/deepmerge/changelog.md": "changelogs",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/composer/changelog.md": "changelogs",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/templates/changelog.md": "changelogs",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/zod-to-json-schema/changelog.md": "changelogs",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/hast-util-raw/node_modules/vfile/changelog.md": "changelogs",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@stoplight/markdown-viewer/node_modules/vfile/changelog.md": "changelogs",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@stoplight/markdown/node_modules/vfile/changelog.md": "changelogs",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/orders/changelog.mdx": "changelogs",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/orders/services/inventoryservice/changelog.mdx": "changelogs",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/orders/services/ordersservice/changelog.mdx": "changelogs",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/orders/services/inventoryservice/events/inventoryadjusted/changelog.mdx": "changelogs",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/orders/services/ordersservice/versioned/0.0.2/changelog.mdx": "changelogs",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/orders/services/inventoryservice/events/inventoryadjusted/versioned/0.0.1/changelog.mdx": "changelogs",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/orders/services/inventoryservice/events/inventoryadjusted/versioned/1.0.0/changelog.mdx": "changelogs",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/channels/inventory.%7benv%7d.events/index.mdx": "channels",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/channels/orders.%7benv%7d.events/index.mdx": "channels",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/channels/payment.%7benv%7d.events/index.mdx": "channels",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/orders/services/inventoryservice/commands/updateinventory/index.mdx": "commands",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/orders/services/inventoryservice/commands/placeorder/index.mdx": "commands",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/orders/services/inventoryservice/commands/addinventory/index.mdx": "commands",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/orders/services/shippingservice/commands/cancelshipment/index.mdx": "commands",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/orders/services/shippingservice/commands/createreturnlabel/index.mdx": "commands",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/orders/services/shippingservice/commands/createshipment/index.mdx": "commands",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/orders/services/shippingservice/commands/updateshipmentstatus/index.mdx": "commands",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/subscriptions/services/subscriptionservice/commands/cancelsubscription/index.mdx": "commands",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/subscriptions/services/subscriptionservice/commands/subscribeuser/index.mdx": "commands",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/orders/services/ordersservice/events/orderamended/index.mdx": "events",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/orders/services/ordersservice/events/orderconfirmed/index.mdx": "events",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/orders/services/ordersservice/events/ordercancelled/index.mdx": "events",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/orders/services/inventoryservice/events/inventoryadjusted/index.mdx": "events",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/orders/services/shippingservice/events/deliveryfailed/index.mdx": "events",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/orders/services/inventoryservice/events/outofstock/index.mdx": "events",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/orders/services/shippingservice/events/shipmentcreated/index.mdx": "events",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/orders/services/shippingservice/events/shipmentdelivered/index.mdx": "events",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/orders/services/shippingservice/events/shipmentdispatched/index.mdx": "events",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/orders/services/shippingservice/events/shipmentintransit/index.mdx": "events",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/payment/services/paymentservice/events/paymentinitiated/index.mdx": "events",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/payment/services/paymentservice/events/paymentprocessed/index.mdx": "events",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/subscriptions/services/subscriptionservice/events/usersubscriptioncancelled/index.mdx": "events",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/subscriptions/services/subscriptionservice/events/usersubscriptionstarted/index.mdx": "events",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/orders/services/shippingservice/events/returninitiated/index.mdx": "events",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/orders/services/inventoryservice/events/inventoryadjusted/versioned/1.0.0/index.mdx": "events",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/orders/services/inventoryservice/events/inventoryadjusted/versioned/0.0.1/index.mdx": "events",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/orders/services/inventoryservice/events/outofstock/versioned/0.0.1/index.mdx": "events",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/payment/services/paymentservice/events/paymentprocessed/versioned/0.0.1/index.mdx": "events",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/payment/flows/paymentprocessed/index.mdx": "flows",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/subscriptions/flows/cancelsubscription/index.mdx": "flows",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/subscriptions/flows/cancelsubscription/versioned/0.0.1/index.mdx": "flows",
+    "file:///home/runner/work/event-catlog/event-catlog/pages/index.mdx": "pages",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/pages/index.mdx": "pages",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/orders/services/inventoryservice/queries/getinventorylist/index.mdx": "queries",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/orders/services/inventoryservice/queries/getinventorystatus/index.mdx": "queries",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/orders/services/notificationservice/queries/getnotificationdetails/index.mdx": "queries",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/orders/services/notificationservice/queries/getusernotifications/index.mdx": "queries",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/subscriptions/services/subscriptionservice/queries/getsubscriptionstatus/index.mdx": "queries",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/orders/services/ordersservice/queries/getorder/index.mdx": "queries",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/payment/services/paymentservice/queries/getpaymentstatus/index.mdx": "queries",
+    "file:///home/runner/work/event-catlog/event-catlog/node_modules/@eventcatalog/create-eventcatalog/templates/default/domains/subscriptions/services/subscriptionservice/queries/getsubscriptionstatus/versioned/0.0.1/index.mdx": "queries"
+  }
+}
